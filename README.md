@@ -13,7 +13,7 @@ Our solution is built with a modern and scalable technology stack:
  
 🛠️ Installation & Setup
 Clone the repository:
-git clone [https://github.com/Ayutayam-sutar/Innothon-Mindbridge-2025.git](https://github.com/Ayutayam-sutar/Weather-hackathon)
+git clone [https://github.com/Ayutayam-sutar/Weather-hackathon-2025.git](https://github.com/Ayutayam-sutar/Weather-hackathon)
 
 Open your browser and navigate to[ http://localhost:5173.](https://weathervibe-forecast.netlify.app/)
 
