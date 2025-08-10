@@ -18,10 +18,13 @@ git clone [https://github.com/Ayutayam-sutar/Innothon-Mindbridge-2025.git](https
 Open your browser and navigate to[ http://localhost:5173.](https://weathervibe-forecast.netlify.app/)
 
 👥 Team Members
-|Name	                    Role          | 
-|Ayutayam Sutar	       [Team Lead     ] |
-|Ashutosh Nayak	       [Frontend Dev  ] |
-|Siddharth Kumar Jena	 [UI/UX Designer] |
+| Name                     | Role                        |
+| -----------------------  | --------------------------- |
+| **Ayutayam Sutar**       | [Team Lead, Frontend Dev]   |
+| **Ashutosh Nayak**       | [Frontend Dev]               |
+| **Siddharth Kumar Jena** | [UI/UX Designer]            |
+
+
 🙏 Acknowledgements
 CodeSpark Organizers.
 Gemini , Google , Netlify , Unsplash
